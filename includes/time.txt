@@ -1,0 +1,4 @@
+1000
+25
+Timer interval
+Sleep timer
